@@ -1,3 +1,49 @@
-body{
-    color: aqua;
-}    
+#titulo{
+    color:black;
+}
+.texto{
+    color:red;
+}
+
+p._1{color:black}
+h2{
+    color:yellow;
+}
+div,p{
+    color:pink;
+}
+*{
+    font-size: 50px;
+}
+article{
+    color: azure;
+    text-align: center;
+}
+.colores{
+    border: 5px blue solid;
+    border-radius: 20px;
+    border-width: 15px;
+}
+.text{
+    color: black;
+    text-align: center;
+    text-decoration: double;
+    text-shadow: 3px 5px 5px;
+}
+#fondo{
+    background-color: orange;   
+    opacity: 0.9;
+    height: 400px;
+    background-image: url("https://impulso06.com/wp-content/uploads/2024/04/El-Arte-del-Hacking-Etico-Herramientas-y-Tecnicas-para-la-Defensa-Cibernetica.png");
+    background-position: left center, right center, center; 
+    background-size: 800px , 600px;
+    background-repeat: no-repeat;
+}
+.margen{
+    background-color: blueviolet;
+    margin: 20px 20px 20px 20px;
+    padding: 35px 30px 25px 20px;
+    height: 320px;
+    width: 240px;
+    overflow: scroll;
+}
